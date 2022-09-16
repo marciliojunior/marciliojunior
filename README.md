@@ -32,4 +32,4 @@
   <a href="https://www.linkedin.com/in/marciliocatarino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/marciliojunior/marciliojunior/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marciliojunior/marciliojunior/blob/0ba75aaf90d830095ec6fc0441ac0754831c8a56/github-contribution-grid-snake.svg)
